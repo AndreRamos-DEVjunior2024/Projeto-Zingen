@@ -83,7 +83,7 @@ a:hover {
         var(--brand-color-primary) 100%
     );
 
-    -webkit-backdrop-clip:text;
+    -webkit-background-clip:text;
     background-clip: text;
     color: transparent;
 }
